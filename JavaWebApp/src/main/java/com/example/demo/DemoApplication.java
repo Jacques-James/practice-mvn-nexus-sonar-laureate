@@ -12,9 +12,6 @@ public class DemoApplication {
 		string name = "Jacques"
 
 		system.out.println(name);
-
-		inter age = "20";
-		system.out.println(age +5);
 	}
 
 }
